@@ -1,5 +1,5 @@
 import React from "react";
-import MainSection from "./sections/mainSection";
+import MainSection from "./sections/MainSection";
 import AboutSection from "./sections/AboutSection";
 import { ExperienceSection } from "./sections/ExperienceSection";
 import ProjectSection from "./sections/ProjectSection";
